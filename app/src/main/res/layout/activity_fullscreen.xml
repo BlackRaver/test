@@ -45,6 +45,35 @@
             android:layout_height="wrap_content"
             android:text="Button" />
 
+android:layout_height="wrap_content"< android:layout_width="wrap_content"="wrap_content"
+    android:layout_height="wrap_content" />
+
+            android:layout_height="wrap_content"< android:layout_width="wrap_content"="wrap_content"
+        android:layout_height="wrap_content" />
+
+            android:layout_height="wrap_content"< android:layout_width="wrap_content"="wrap_content"
+        android:layout_height="wrap_content" />
+
+            android:layout_height="wrap_content"< android:layout_width="wrap_content"="wrap_content"
+        android:layout_height="wrap_content" />
+
+            android:layout_height="wrap_content"< android:layout_width="wrap_content"="wrap_content"
+        android:layout_height="wrap_content" />
+
+            android:layout_height="wrap_content"< android:layout_width="wrap_content"="wrap_content"
+        android:layout_height="wrap_content" />
+
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"< android:HEAD
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+=======
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -57,6 +86,13 @@
                 android:layout_weight="1"
                 android:text="Button" />
 
+            <Switch
+                android:id="@+id/switch1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Switch" />
+
             <Button
                 android:id="@+id/button2"
                 android:layout_width="wrap_content"
@@ -64,5 +100,6 @@
                 android:layout_weight="1"
                 android:text="Button" />
         </LinearLayout>
+>>>>>>> ff1fb1372fd859afbb8fe430afe4a4e47f9ddb11
     </LinearLayout>
 </FrameLayout>
